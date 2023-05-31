@@ -17,4 +17,4 @@ tests/lifecycle/test_prefect.py::TestPrefect::test_prefect_log_level_is_warning 
 tests/lifecycle/test_prefect.py::TestPrefect::test_prefect_tasks PASSED  [ 90%]
 tests/lifecycle/test_prefect.py::TestPrefect::test_prefect_flow PASSED   [100%]
 
-====================== 10 passed, 100 warnings in 10.10s =======================
+====================== 10 passed, 106 warnings in 52.97s =======================
